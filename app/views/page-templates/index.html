@@ -1,0 +1,85 @@
+<!-- Use this page as the index for your project -->
+
+<!-- ADDING CUSTOM CSS - Add your custom CSS or Sass in /app/assets/sass/main.scss -->
+
+<!-- Extends the layout from /views/layout.html -->
+{% extends 'layout.html' %}
+<!-- 
+  In /views/layout.html you can:
+    - change the header and footer 
+    - add custom CSS and JavaScript
+-->
+
+<!-- Set the page title -->
+{% block pageTitle %}
+  NHS.UK Nav Team
+{% endblock %}
+
+<!-- For adding a breadcrumb -->
+<!-- Code examples can be found at https://service-manual.nhs.uk/design-system/components/breadcrumbs -->
+{% block beforeContent %}
+{% endblock %}
+
+<!-- For adding a back link -->
+<!-- Code examples can be found at https://service-manual.nhs.uk/design-system/components/back-link -->
+{% block outerContent %}
+{% endblock %}
+
+<!-- For adding page content -->
+<!-- Page layout code can be found at https://service-manual.nhs.uk/design-system/styles/layout -->
+{% block content %}
+  <div class="nhsuk-grid-row">
+    <div class="nhsuk-grid-column-two-thirds">
+
+      <!-- Change the page title here -->
+      <h1>
+        The Nav Team templates and components
+        <span class="nhsuk-caption-xl nhsuk-caption--bottom">Last updated April 2022</span>
+      </h1>
+
+     <p><strong>The Nav Team</strong> on NHS.UK (previously known as the Information Architecture team) have been working on updating page templates and components across the website to improve users' abilities to understand what content we have, how they can find it and what else we have to offer.</p>
+     <p>This prototype is a catalogue of the templates and components that contribute to a good information architecture. Where possible, guidance will be included explaining how to use these.</p>
+
+     <h2>Guidance</h2>
+      <ul class="nhsuk-grid-row nhsuk-card-group">
+        <li class="beta-hub-main-topic nhsuk-grid-column-one-half nhsuk-card-group__item">
+          <div class="nhsuk-card nhsuk-card--clickable ">
+            <div class="nhsuk-card__content beta-card__content">
+              <h2 class="nhsuk-card__heading nhsuk-heading-m">
+                <a class="nhsuk-card__link" href="/page-templates/index">
+                  Page templates
+                </a>
+              </h2>
+              <div class="nhsuk-card__description"><p>The new page templates help users to navigate from a wide topic area, to more specific content by filtering through different types of 'hub' structures</p></div>
+              <div class="beta-hub-arrow">
+                <svg class="nhsuk-icon beta-icon__chevron-right-circle" xmlns="http://www.w3.org/2000/svg" width="27" height="27" aria-hidden="true"><circle cx="13.333" cy="13.333" r="13.333" fill=""/><g data-name="Group 1" fill="none" stroke="#fff" stroke-linecap="round" stroke-miterlimit="10" stroke-width="2.667"><path d="M15.438 13l-3.771 3.771"/><path data-name="Path" d="M11.667 9.229L15.438 13"/></g></svg>
+              </div>
+            </div>
+          </div>
+        </li>
+        <li class="beta-hub-main-topic nhsuk-grid-column-one-half nhsuk-card-group__item">
+          <div class="nhsuk-card nhsuk-card--clickable ">
+            <div class="nhsuk-card__content beta-card__content">
+              <h2 class="nhsuk-card__heading nhsuk-heading-m">
+                <a class="nhsuk-card__link" href="/components/index">
+                  Components
+                </a>
+              </h2>
+              <div class="nhsuk-card__description"><p>Conditions and illnesses, including common illnesses like chickenpox and more serious conditions like cancer</p></div>
+              <div class="beta-hub-arrow">
+                <svg class="nhsuk-icon beta-icon__chevron-right-circle" xmlns="http://www.w3.org/2000/svg" width="27" height="27" aria-hidden="true"><circle cx="13.333" cy="13.333" r="13.333" fill=""/><g data-name="Group 1" fill="none" stroke="#fff" stroke-linecap="round" stroke-miterlimit="10" stroke-width="2.667"><path d="M15.438 13l-3.771 3.771"/><path data-name="Path" d="M11.667 9.229L15.438 13"/></g></svg>
+              </div>
+            </div>
+          </div>
+        </li>
+      </ul>
+
+      <h3>Contribute to our GitHub issues</h3>
+      <p>We are always looking for insight around how to improve our page templates and components.</p>
+      <p>If your team have used any of them, please find the <a href="https://github.com/nhsuk/nhsuk-service-manual-community-backlog/issues?q=is%3Aissue+is%3Aopen+label%3A%22Information+Architecture%22">information architecture issues on GitHub</a> and share your findings.</p>
+      <h3>Get in touch</h3>
+      <p>For questions about how to design with the new templates and components, please contact Brie Whyatt on the nhs.uk slack, or email brieanna.whyatt1@nhs.net</p>
+
+    </div>
+  </div>
+{% endblock %}

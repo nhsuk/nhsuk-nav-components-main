@@ -1,0 +1,3287 @@
+[
+    {
+        "title": "AAA",
+        "link": "#",
+        "tag": "",
+        "synonyms": "",
+        "misspelling": ""
+    },
+    {
+        "title": "ankle",
+        "link": "/lab-3/b/search-results/ankle",
+        "tag": "",
+        "synonyms": "",
+        "misspelling": "kankle"
+    },
+    {
+        "title": "fever",
+        "link": "/lab-3/b/search-results/fever",
+        "tag": "",
+        "synonyms": "temperature, high temperature",
+        "misspelling": "feever"
+    },
+    {
+        "title": "sepsis",
+        "link": "/lab-3/b/search-results/sepsis",
+        "tag": "",
+        "synonyms": "infection, infected cut, blood poisoning, septiceamia",
+        "misspelling": "sepses, sepsos"
+    },
+    {
+        "title": "meningitis",
+        "link": "/lab-3/b/search-results/meningitis",
+        "tag": "",
+        "synonyms": "rash, rash that doesn't disappear",
+        "misspelling": "mennigitus, meningitos, meningitus/miningitis"
+    },
+    {
+        "title": "Chest",
+        "link": "/lab-3/b/search-results/chest",
+        "tag": "",
+        "synonyms": "heart attack",
+        "misspelling": "cheese, "
+    },
+    {
+        "title": "Chest pain",
+        "link": "/lab-3/b/search-results/chest",
+        "tag": "",
+        "synonyms": "",
+        "misspelling": ""
+    },
+    {
+        "title": "Chest infection",
+        "link": "#",
+        "tag": "",
+        "synonyms": "",
+        "misspelling": ""
+    },
+    {
+        "title": "Chest ache",
+        "link": "#",
+        "tag": "",
+        "synonyms": "",
+        "misspelling": ""
+    },
+    {
+        "title": "Chest inflammation",
+        "link": "#",
+        "tag": "",
+        "synonyms": "",
+        "misspelling": ""
+    },
+    {
+        "title": "Pain in chest",
+        "link": "#",
+        "tag": "",
+        "synonyms": "",
+        "misspelling": ""
+    },
+    {
+        "title": "Ache in chest",
+        "link": "#",
+        "tag": "",
+        "synonyms": "",
+        "misspelling": ""
+    },
+    {
+        "title": "Pain in my chest",
+        "link": "#",
+        "tag": "",
+        "synonyms": "",
+        "misspelling": ""
+    },
+    {
+        "title": "Heart attack",
+        "link": "/lab-3/b/search-results/chest",
+        "tag": "",
+        "synonyms": "",
+        "misspelling": ""
+    },
+    {
+        "title": "Heart",
+        "link": "#",
+        "tag": "",
+        "synonyms": "",
+        "misspelling": ""
+    },
+    {
+        "title": "Heart failure",
+        "link": "#",
+        "tag": "",
+        "synonyms": "",
+        "misspelling": ""
+    },
+    {
+        "title": "Heart rate",
+        "link": "#",
+        "tag": "",
+        "synonyms": "",
+        "misspelling": ""
+    },
+    {
+        "title": "Heartburn",
+        "link": "#",
+        "tag": "",
+        "synonyms": "",
+        "misspelling": ""
+    },
+    {
+        "title": "Heart disease",
+        "link": "#",
+        "tag": "",
+        "synonyms": "",
+        "misspelling": ""
+    },
+    {
+        "title": "Heart attack symptoms",
+        "link": "",
+        "tag": "",
+        "synonyms": "",
+        "misspelling": ""
+    },
+    {
+        "title": "Chronic pancreatitis",
+        "link": "",
+        "tag": "",
+        "synonyms": "",
+        "misspelling": ""
+    },
+    {
+        "title": "Circumcision in men",
+        "link": "#",
+        "tag": "",
+        "synonyms": "",
+        "misspelling": ""
+    },
+    {
+        "title": "Cirrhosis",
+        "link": "#",
+        "tag": "",
+        "synonyms": "",
+        "misspelling": ""
+    },
+    {
+        "title": "CJD",
+        "link": "#",
+        "tag": "",
+        "synonyms": "",
+        "misspelling": ""
+    },
+    {
+        "title": "Cleft lip and palate",
+        "link": "#",
+        "tag": "",
+        "synonyms": "",
+        "misspelling": ""
+    },
+    {
+        "title": "Clinical depression",
+        "link": "#",
+        "tag": "",
+        "synonyms": "",
+        "misspelling": ""
+    },
+    {
+        "title": "Clinical trials",
+        "link": "#",
+        "tag": "",
+        "synonyms": "",
+        "misspelling": ""
+    },
+    {
+        "title": "Croup",
+        "link": "#",
+        "tag": "",
+        "synonyms": "",
+        "misspelling": ""
+    },
+    {
+        "title": "CT scan",
+        "link": "#",
+        "tag": "",
+        "synonyms": "",
+        "misspelling": ""
+    },
+    {
+        "title": "Cushing's syndrome",
+        "link": "#",
+        "tag": "",
+        "synonyms": "",
+        "misspelling": ""
+    },
+    {
+        "title": "Cuts and grazes",
+        "link": "#",
+        "tag": "",
+        "synonyms": "",
+        "misspelling": ""
+    },
+    {
+        "title": "Cyanosis",
+        "link": "#",
+        "tag": "",
+        "synonyms": "",
+        "misspelling": ""
+    },
+    {
+        "title": "Cyclical vomiting syndrome",
+        "link": "#",
+        "tag": "",
+        "synonyms": "",
+        "misspelling": ""
+    },
+    {
+        "title": "Cyclospora",
+        "link": "#",
+        "tag": "",
+        "synonyms": "",
+        "misspelling": ""
+    },
+    {
+        "title": "Cyclothymia",
+        "link": "#",
+        "tag": "",
+        "synonyms": "",
+        "misspelling": ""
+    },
+    {
+        "title": "Cystic fibrosis",
+        "link": "#",
+        "tag": "",
+        "synonyms": "",
+        "misspelling": ""
+    },
+    {
+        "title": "Cystitis",
+        "link": "#",
+        "tag": "",
+        "synonyms": "",
+        "misspelling": ""
+    },
+    {
+        "title": "Dandruff",
+        "link": "#",
+        "tag": "",
+        "synonyms": "",
+        "misspelling": ""
+    },
+    {
+        "title": "Deafblindness",
+        "link": "#",
+        "tag": "",
+        "synonyms": "",
+        "misspelling": ""
+    },
+    {
+        "title": "Deafness",
+        "link": "#",
+        "tag": "",
+        "synonyms": "",
+        "misspelling": ""
+    },
+    {
+        "title": "Dehydration",
+        "link": "#",
+        "tag": "",
+        "synonyms": "",
+        "misspelling": ""
+    },
+    {
+        "title": "Delirium",
+        "link": "#",
+        "tag": "",
+        "synonyms": "",
+        "misspelling": ""
+    },
+    {
+        "title": "Dengue",
+        "link": "#",
+        "tag": "",
+        "synonyms": "",
+        "misspelling": ""
+    },
+    {
+        "title": "Dental abscess",
+        "link": "#",
+        "tag": "",
+        "synonyms": "",
+        "misspelling": ""
+    },
+    {
+        "title": "Dental pain",
+        "link": "#",
+        "tag": "",
+        "synonyms": "",
+        "misspelling": ""
+    },
+    {
+        "title": "Dentures (false teeth)",
+        "link": "#",
+        "tag": "",
+        "synonyms": "",
+        "misspelling": ""
+    },
+    {
+        "title": "Depression",
+        "link": "#",
+        "tag": "",
+        "synonyms": "",
+        "misspelling": ""
+    },
+    {
+        "title": "Detached retina (retinal detachment)",
+        "link": "#",
+        "tag": "",
+        "synonyms": "",
+        "misspelling": ""
+    },
+    {
+        "title": "Diabetes",
+        "link": "#",
+        "tag": "",
+        "synonyms": "",
+        "misspelling": ""
+    },
+
+    {
+        "title": "Dialysis",
+        "link": "#",
+        "tag": "",
+        "synonyms": "",
+        "misspelling": ""
+    },
+    {
+        "title": "Diarrhoea",
+        "link": "/diarrhoea",
+        "tag": "",
+        "synonyms": "runs, shits, squits, runny poo, bad poo, loose poo, dodgy poo, bad guts, loose guts, dodgy guts, loose stools, runny stools, dodgy stools, loose bowels, dodgy dowels, dodgy tummy, bad tummy, dodgy stomach, bad stomach",
+        "misspelling": "Diarhoea, Diarroea, Diarrhea, Diarrhear, Diarhea, Diarhear, Diarhrear, Diarhearh, Diahrearh, Diarrea, Diarea, Diarear, Diarrear, Direar, Direarr, Direa, Direah, Direarh, dyo, diy"
+    },
+    {
+        "title": "Diarrhoea and vomiting",
+        "link": "/diarrhoea",
+        "tag": "",
+        "synonyms": "",
+        "misspelling": ""
+    },
+    {
+        "title": "Discoid eczema",
+        "link": "#",
+        "tag": "",
+        "synonyms": "",
+        "misspelling": ""
+    },
+    {
+        "title": "Dizziness",
+        "link": "#",
+        "tag": "",
+        "synonyms": "",
+        "misspelling": ""
+    },
+    {
+        "title": "Double vision",
+        "link": "#",
+        "tag": "",
+        "synonyms": "",
+        "misspelling": ""
+    },
+    {
+        "title": "Down's syndrome",
+        "link": "#",
+        "tag": "",
+        "synonyms": "",
+        "misspelling": ""
+    },
+    {
+        "title": "Dry eyes",
+        "link": "#",
+        "tag": "",
+        "synonyms": "",
+        "misspelling": ""
+    },
+    {
+        "title": "Dry lips",
+        "link": "#",
+        "tag": "",
+        "synonyms": "",
+        "misspelling": ""
+    },
+    {
+        "title": "Dry mouth",
+        "link": "#",
+        "tag": "",
+        "synonyms": "",
+        "misspelling": ""
+    },
+    {
+        "title": "Dupuytren's contracture",
+        "link": "#",
+        "tag": "",
+        "synonyms": "",
+        "misspelling": ""
+    },
+    {
+        "title": "DVT",
+        "link": "#",
+        "tag": "",
+        "synonyms": "",
+        "misspelling": ""
+    },
+    {
+        "title": "DVT (deep vein thrombosis)",
+        "link": "#",
+        "tag": "",
+        "synonyms": "",
+        "misspelling": ""
+    },
+    {
+        "title": "Dysentery",
+        "link": "#",
+        "tag": "",
+        "synonyms": "",
+        "misspelling": ""
+    },
+    {
+        "title": "Dystonia",
+        "link": "#",
+        "tag": "",
+        "synonyms": "",
+        "misspelling": ""
+    },
+    {
+        "title": "Earache",
+        "link": "#",
+        "tag": "",
+        "synonyms": "",
+        "misspelling": ""
+    },
+    {
+        "title": "Eardrum (burst)",
+        "link": "#",
+        "tag": "",
+        "synonyms": "",
+        "misspelling": ""
+    },
+    {
+        "title": "Early menopause",
+        "link": "#",
+        "tag": "",
+        "synonyms": "",
+        "misspelling": ""
+    },
+    {
+        "title": "Early or delayed puberty",
+        "link": "#",
+        "tag": "",
+        "synonyms": "",
+        "misspelling": ""
+    },
+    {
+        "title": "Earwax build-up",
+        "link": "#",
+        "tag": "",
+        "synonyms": "",
+        "misspelling": ""
+    },
+    {
+        "title": "Eczema",
+        "link": "eczema",
+        "tag": "",
+        "synonyms": "dry skin, cracked skin, itchy skin, red skin, flaky skin, sore skin, crusty skin, irritated skin; skin, dry; skin, cracked; skin, itchy; skin, red; skin, flaky; skin, sore; skin, crusty; skin, irritation; skin, irritated",
+        "misspelling": "eczma, exzema, exzma, ezma, excma, exema, excema, ecxema, ecxma, ecema, ecsma, ecsema, ecksma, ecksema, exsma, exsema, eggsma, egsma, eggsema, egsema, egxema, egxma, egcema, egcma, egzma, egzema"
+    }, 
+    {
+        "title": "Edwards' syndrome (trisomy 18)",
+        "link": "#",
+        "tag": "",
+        "synonyms": "",
+        "misspelling": ""
+    },
+    {
+        "title": "Ehlers-Danlos syndromes",
+        "link": "#",
+        "tag": "",
+        "synonyms": "",
+        "misspelling": ""
+    },
+    {
+        "title": "Ejaculation problems",
+        "link": "#",
+        "tag": "",
+        "synonyms": "",
+        "misspelling": ""
+    },
+    {
+        "title": "Elbow and arm pain",
+        "link": "#",
+        "tag": "",
+        "synonyms": "",
+        "misspelling": ""
+    },
+    {
+        "title": "Embolism",
+        "link": "#",
+        "tag": "",
+        "synonyms": "",
+        "misspelling": ""
+    },
+    {
+        "title": "Emollients",
+        "link": "#",
+        "tag": "",
+        "synonyms": "",
+        "misspelling": ""
+    },
+    {
+        "title": "Endometrial cancer",
+        "link": "#",
+        "tag": "",
+        "synonyms": "",
+        "misspelling": ""
+    },
+    {
+        "title": "Endometriosis",
+        "link": "#",
+        "tag": "",
+        "synonyms": "",
+        "misspelling": ""
+    },
+    {
+        "title": "Epidermolysis bullosa",
+        "link": "#",
+        "tag": "",
+        "synonyms": "",
+        "misspelling": ""
+    },
+    {
+        "title": "Epidural",
+        "link": "#",
+        "tag": "",
+        "synonyms": "",
+        "misspelling": ""
+    },
+    {
+        "title": "Epiglottitis",
+        "link": "#",
+        "tag": "",
+        "synonyms": "",
+        "misspelling": ""
+    },
+    {
+        "title": "Epilepsy",
+        "link": "#",
+        "tag": "",
+        "synonyms": "",
+        "misspelling": ""
+    },
+    {
+        "title": "Erythema multiforme",
+        "link": "#",
+        "tag": "",
+        "synonyms": "",
+        "misspelling": ""
+    },
+    {
+        "title": "Erythema nodosum",
+        "link": "#",
+        "tag": "",
+        "synonyms": "",
+        "misspelling": ""
+    },
+    {
+        "title": "Erythromelalgia",
+        "link": "#",
+        "tag": "",
+        "synonyms": "",
+        "misspelling": ""
+    },
+    {
+        "title": "Essential tremor",
+        "link": "#",
+        "tag": "",
+        "synonyms": "",
+        "misspelling": ""
+    },
+    {
+        "title": "Euthanasia and assisted suicide",
+        "link": "#",
+        "tag": "",
+        "synonyms": "",
+        "misspelling": ""
+    },
+    {
+        "title": "Ewing sarcoma",
+        "link": "#",
+        "tag": "",
+        "synonyms": "",
+        "misspelling": ""
+    },
+    {
+        "title": "Excessive hair growth (hirsutism)",
+        "link": "#",
+        "tag": "",
+        "synonyms": "",
+        "misspelling": ""
+    },
+    {
+        "title": "Eye cancer",
+        "link": "#",
+        "tag": "",
+        "synonyms": "",
+        "misspelling": ""
+    },
+    {
+        "title": "Eye floaters",
+        "link": "#",
+        "tag": "",
+        "synonyms": "",
+        "misspelling": ""
+    },
+    {
+        "title": "Eye injuries",
+        "link": "#",
+        "tag": "",
+        "synonyms": "",
+        "misspelling": ""
+    },
+    {
+        "title": "Eye tests for children",
+        "link": "#",
+        "tag": "",
+        "synonyms": "",
+        "misspelling": ""
+    },
+    {
+        "title": "Eyelid problems",
+        "link": "#",
+        "tag": "",
+        "synonyms": "",
+        "misspelling": ""
+    },
+    {
+        "title": "Fabricated or induced illness",
+        "link": "#",
+        "tag": "",
+        "synonyms": "",
+        "misspelling": ""
+    },
+    {
+        "title": "Face blindness",
+        "link": "#",
+        "tag": "",
+        "synonyms": "",
+        "misspelling": ""
+    },
+    {
+        "title": "Fainting",
+        "link": "#",
+        "tag": "",
+        "synonyms": "",
+        "misspelling": ""
+    },
+    {
+        "title": "Falls",
+        "link": "#",
+        "tag": "",
+        "synonyms": "",
+        "misspelling": ""
+    },
+    {
+        "title": "Farting (flatulence)",
+        "link": "#",
+        "tag": "",
+        "synonyms": "",
+        "misspelling": ""
+    },
+    {
+        "title": "Febrile seizures",
+        "link": "#",
+        "tag": "",
+        "synonyms": "",
+        "misspelling": ""
+    },
+    {
+        "title": "Feeling sick (nausea)",
+        "link": "#",
+        "tag": "",
+        "synonyms": "",
+        "misspelling": ""
+    },
+    {
+        "title": "Female genital mutilation (FGM)",
+        "link": "#",
+        "tag": "",
+        "synonyms": "",
+        "misspelling": ""
+    },
+    {
+        "title": "Femoral hernia repair",
+        "link": "#",
+        "tag": "",
+        "synonyms": "",
+        "misspelling": ""
+    },
+    {
+        "title": "Fever in children",
+        "link": "#",
+        "tag": "",
+        "synonyms": "",
+        "misspelling": ""
+    },
+    {
+        "title": "Heart bypass",
+        "link": "#",
+        "tag": "",
+        "synonyms": "",
+        "misspelling": ""
+    },
+    {
+        "title": "Heart failure",
+        "link": "#",
+        "tag": "",
+        "synonyms": "",
+        "misspelling": ""
+    },
+    {
+        "title": "Heart pain",
+        "link": "#",
+        "tag": "",
+        "synonyms": "",
+        "misspelling": ""
+    },
+    {
+        "title": "Heart rhythm problems",
+        "link": "#",
+        "tag": "",
+        "synonyms": "",
+        "misspelling": ""
+    },
+    {
+        "title": "Heart transplant",
+        "link": "#",
+        "tag": "",
+        "synonyms": "",
+        "misspelling": ""
+    },
+    {
+        "title": "Heart valve problems",
+        "link": "#",
+        "tag": "",
+        "synonyms": "",
+        "misspelling": ""
+    },
+    {
+        "title": "Heart valve replacement",
+        "link": "#",
+        "tag": "",
+        "synonyms": "",
+        "misspelling": ""
+    },
+    {
+        "title": "Heart-lung transplant",
+        "link": "#",
+        "tag": "",
+        "synonyms": "",
+        "misspelling": ""
+    },
+    {
+        "title": "Heartburn and acid reflux",
+        "link": "#",
+        "tag": "",
+        "synonyms": "",
+        "misspelling": ""
+    },
+    {
+        "title": "Heat exhaustion and heatstroke",
+        "link": "#",
+        "tag": "",
+        "synonyms": "",
+        "misspelling": ""
+    },
+    {
+        "title": "Heat rash (prickly heat)",
+        "link": "#",
+        "tag": "",
+        "synonyms": "",
+        "misspelling": ""
+    },
+    {
+        "title": "Heavy periods",
+        "link": "#",
+        "tag": "",
+        "synonyms": "",
+        "misspelling": ""
+    },
+    {
+        "title": "Henoch-Schönlein purpura (HSP)",
+        "link": "#",
+        "tag": "",
+        "synonyms": "",
+        "misspelling": ""
+    },
+    {
+        "title": "Hepatitis",
+        "link": "#",
+        "tag": "",
+        "synonyms": "",
+        "misspelling": ""
+    },
+    {
+        "title": "Hepatitis A",
+        "link": "#",
+        "tag": "",
+        "synonyms": "",
+        "misspelling": ""
+    },
+    {
+        "title": "Hepatitis B",
+        "link": "#",
+        "tag": "",
+        "synonyms": "",
+        "misspelling": ""
+    },
+    {
+        "title": "Hepatitis C",
+        "link": "#",
+        "tag": "",
+        "synonyms": "",
+        "misspelling": ""
+    },
+    {
+        "title": "Herceptin (trastuzumab)",
+        "link": "#",
+        "tag": "",
+        "synonyms": "",
+        "misspelling": ""
+    },
+    {
+        "title": "Hernia",
+        "link": "#",
+        "tag": "",
+        "synonyms": "",
+        "misspelling": ""
+    },
+    {
+        "title": "Hernia (femoral)",
+        "link": "#",
+        "tag": "",
+        "synonyms": "",
+        "misspelling": ""
+    },
+    {
+        "title": "Hernia (hiatus)",
+        "link": "#",
+        "tag": "",
+        "synonyms": "",
+        "misspelling": ""
+    },
+    {
+        "title": "Hernia (inguinal)",
+        "link": "#",
+        "tag": "",
+        "synonyms": "",
+        "misspelling": ""
+    },
+    {
+        "title": "Hernia (umbilical)",
+        "link": "#",
+        "tag": "",
+        "synonyms": "",
+        "misspelling": ""
+    },
+    {
+        "title": "Herpes (genital)",
+        "link": "#",
+        "tag": "",
+        "synonyms": "",
+        "misspelling": ""
+    },
+    {
+        "title": "Herpes in babies",
+        "link": "#",
+        "tag": "",
+        "synonyms": "",
+        "misspelling": ""
+    },
+    {
+        "title": "Herpetic whitlow (whitlow finger)",
+        "link": "#",
+        "tag": "",
+        "synonyms": "",
+        "misspelling": ""
+    },
+    {
+        "title": "Hiatus hernia",
+        "link": "#",
+        "tag": "",
+        "synonyms": "",
+        "misspelling": ""
+    },
+    {
+        "title": "Hiccups",
+        "link": "#",
+        "tag": "",
+        "synonyms": "",
+        "misspelling": ""
+    },
+    {
+        "title": "Hidradenitis suppurativa (HS)",
+        "link": "#",
+        "tag": "",
+        "synonyms": "",
+        "misspelling": ""
+    },
+    {
+        "title": "High blood pressure (hypertension)",
+        "link": "#",
+        "tag": "",
+        "synonyms": "",
+        "misspelling": ""
+    },
+    {
+        "title": "High cholesterol",
+        "link": "#",
+        "tag": "",
+        "synonyms": "",
+        "misspelling": ""
+    },
+    {
+        "title": "Hip dysplasia",
+        "link": "#",
+        "tag": "",
+        "synonyms": "",
+        "misspelling": ""
+    },
+    {
+        "title": "Hip fracture",
+        "link": "#",
+        "tag": "",
+        "synonyms": "",
+        "misspelling": ""
+    },
+    {
+        "title": "Hip pain in adults",
+        "link": "#",
+        "tag": "",
+        "synonyms": "",
+        "misspelling": ""
+    },
+    {
+        "title": "Hip pain in children (irritable hip)",
+        "link": "#",
+        "tag": "",
+        "synonyms": "",
+        "misspelling": ""
+    },
+    {
+        "title": "Hip replacement",
+        "link": "#",
+        "tag": "",
+        "synonyms": "",
+        "misspelling": ""
+    },
+    {
+        "title": "HIV and AIDS",
+        "link": "#",
+        "tag": "",
+        "synonyms": "",
+        "misspelling": ""
+    },
+    {
+        "title": "Hives",
+        "link": "#",
+        "tag": "",
+        "synonyms": "",
+        "misspelling": ""
+    },
+    {
+        "title": "Homeopathy",
+        "link": "#",
+        "tag": "",
+        "synonyms": "",
+        "misspelling": ""
+    },
+    {
+        "title": "Homocystinuria",
+        "link": "#",
+        "tag": "",
+        "synonyms": "",
+        "misspelling": ""
+    },
+    {
+        "title": "Hormone headaches",
+        "link": "#",
+        "tag": "",
+        "synonyms": "",
+        "misspelling": ""
+    },
+    {
+        "title": "HRT",
+        "link": "#",
+        "tag": "",
+        "synonyms": "",
+        "misspelling": ""
+    },
+    {
+        "title": "Human papillomavirus (HPV)",
+        "link": "#",
+        "tag": "",
+        "synonyms": "",
+        "misspelling": ""
+    },
+    {
+        "title": "Hydrocortisone",
+        "link": "#",
+        "tag": "",
+        "synonyms": "steroid, steroids",
+        "misspelling": "skin problems, prickly heat rash, nappy rash, piles, itchy bottom, ulcers, mouth ulcers, ulcerative colitis, sore bowel, painful joints, pain, joints, swollen joints, joints, swollen, painful tendons, tendons, pain, bursitis, addison’s disease, adrenal gland disorders, asthma, allergies, allergic reaction"
+    },    
+    {
+        "title": "Hyperglycaemia (high blood sugar)",
+        "link": "#",
+        "tag": "",
+        "synonyms": "",
+        "misspelling": ""
+    },
+    {
+        "title": "Hyperhidrosis",
+        "link": "#",
+        "tag": "",
+        "synonyms": "",
+        "misspelling": ""
+    },
+    {
+        "title": "Hypersomnia",
+        "link": "#",
+        "tag": "",
+        "synonyms": "",
+        "misspelling": ""
+    },
+    {
+        "title": "Hypertension",
+        "link": "#",
+        "tag": "",
+        "synonyms": "",
+        "misspelling": ""
+    },
+    {
+        "title": "Hypnotherapy",
+        "link": "#",
+        "tag": "",
+        "synonyms": "",
+        "misspelling": ""
+    },
+    {
+        "title": "Hypochondria",
+        "link": "#",
+        "tag": "",
+        "synonyms": "",
+        "misspelling": ""
+    },
+    {
+        "title": "Hypoglycaemia (low blood sugar)",
+        "link": "#",
+        "tag": "",
+        "synonyms": "",
+        "misspelling": ""
+    },
+    {
+        "title": "Hypotension",
+        "link": "#",
+        "tag": "",
+        "synonyms": "",
+        "misspelling": ""
+    },
+    {
+        "title": "Hypothermia",
+        "link": "#",
+        "tag": "",
+        "synonyms": "",
+        "misspelling": ""
+    },
+    {
+        "title": "Hypotonia",
+        "link": "#",
+        "tag": "",
+        "synonyms": "",
+        "misspelling": ""
+    },
+    {
+        "title": "Hysteroscopy",
+        "link": "#",
+        "tag": "",
+        "synonyms": "",
+        "misspelling": ""
+    },
+    {
+        "title": "IBS",
+        "link": "#",
+        "tag": "",
+        "synonyms": "",
+        "misspelling": ""
+    },
+    {
+        "title": "Ichthyosis",
+        "link": "#",
+        "tag": "",
+        "synonyms": "",
+        "misspelling": ""
+    },
+    {
+        "title": "Ileostomy",
+        "link": "#",
+        "tag": "",
+        "synonyms": "",
+        "misspelling": ""
+    },
+    {
+        "title": "Impetigo",
+        "link": "#",
+        "tag": "",
+        "synonyms": "",
+        "misspelling": ""
+    },
+    {
+        "title": "Incontinence (urinary)",
+        "link": "#",
+        "tag": "",
+        "synonyms": "",
+        "misspelling": ""
+    },
+    {
+        "title": "Infertility",
+        "link": "#",
+        "tag": "",
+        "synonyms": "",
+        "misspelling": ""
+    },
+    {
+        "title": "Influenza",
+        "link": "#",
+        "tag": "",
+        "synonyms": "",
+        "misspelling": ""
+    },
+    {
+        "title": "Ingrown hairs",
+        "link": "#",
+        "tag": "",
+        "synonyms": "",
+        "misspelling": ""
+    },
+    {
+        "title": "Ingrown toenail",
+        "link": "#",
+        "tag": "",
+        "synonyms": "",
+        "misspelling": ""
+    },
+    {
+        "title": "Inguinal hernia repair",
+        "link": "#",
+        "tag": "",
+        "synonyms": "",
+        "misspelling": ""
+    },
+    {
+        "title": "Insomnia",
+        "link": "#",
+        "tag": "",
+        "synonyms": "",
+        "misspelling": ""
+    },
+    {
+        "title": "Intensive care",
+        "link": "#",
+        "tag": "",
+        "synonyms": "",
+        "misspelling": ""
+    },
+    {
+        "title": "Interstitial cystitis",
+        "link": "#",
+        "tag": "",
+        "synonyms": "",
+        "misspelling": ""
+    },
+    {
+        "title": "Intracranial hypertension",
+        "link": "#",
+        "tag": "",
+        "synonyms": "",
+        "misspelling": ""
+    },
+    {
+        "title": "Intrauterine insemination (IUI)",
+        "link": "#",
+        "tag": "",
+        "synonyms": "",
+        "misspelling": ""
+    },
+    {
+        "title": "Irregular periods",
+        "link": "#",
+        "tag": "",
+        "synonyms": "",
+        "misspelling": ""
+    },
+    {
+        "title": "Irritable bowel syndrome (IBS)",
+        "link": "#",
+        "tag": "",
+        "synonyms": "",
+        "misspelling": ""
+    },
+    {
+        "title": "Irritable hip",
+        "link": "#",
+        "tag": "",
+        "synonyms": "",
+        "misspelling": ""
+    },
+    {
+        "title": "Isovaleric acidaemia",
+        "link": "#",
+        "tag": "",
+        "synonyms": "",
+        "misspelling": ""
+    },
+    {
+        "title": "Itchy bottom",
+        "link": "#",
+        "tag": "",
+        "synonyms": "",
+        "misspelling": ""
+    },
+    {
+        "title": "Itchy skin",
+        "link": "#",
+        "tag": "",
+        "synonyms": "",
+        "misspelling": ""
+    },
+    {
+        "title": "IVF",
+        "link": "#",
+        "tag": "",
+        "synonyms": "",
+        "misspelling": ""
+    },
+    {
+        "title": "Jaw pain",
+        "link": "#",
+        "tag": "",
+        "synonyms": "",
+        "misspelling": ""
+    },
+    {
+        "title": "Jet lag",
+        "link": "#",
+        "tag": "",
+        "synonyms": "",
+        "misspelling": ""
+    },
+    {
+        "title": "Joint hypermobility syndrome",
+        "link": "#",
+        "tag": "",
+        "synonyms": "",
+        "misspelling": ""
+    },
+    {
+        "title": "Joint pain",
+        "link": "#",
+        "tag": "",
+        "synonyms": "",
+        "misspelling": ""
+    },
+    {
+        "title": "Kaposi's sarcoma",
+        "link": "#",
+        "tag": "",
+        "synonyms": "",
+        "misspelling": ""
+    },
+    {
+        "title": "Keratosis pilaris",
+        "link": "#",
+        "tag": "",
+        "synonyms": "",
+        "misspelling": ""
+    },
+    {
+        "title": "Kidney cancer",
+        "link": "#",
+        "tag": "",
+        "synonyms": "",
+        "misspelling": ""
+    },
+    {
+        "title": "Kidney failure",
+        "link": "#",
+        "tag": "",
+        "synonyms": "",
+        "misspelling": ""
+    },
+    {
+        "title": "Kidney stones",
+        "link": "#",
+        "tag": "",
+        "synonyms": "",
+        "misspelling": ""
+    },
+    {
+        "title": "Kidney transplant",
+        "link": "#",
+        "tag": "",
+        "synonyms": "",
+        "misspelling": ""
+    },
+    {
+        "title": "Klinefelter syndrome",
+        "link": "#",
+        "tag": "",
+        "synonyms": "",
+        "misspelling": ""
+    },
+    {
+        "title": "Knee ligament surgery",
+        "link": "#",
+        "tag": "",
+        "synonyms": "",
+        "misspelling": ""
+    },
+    {
+        "title": "Knee pain",
+        "link": "#",
+        "tag": "",
+        "synonyms": "",
+        "misspelling": ""
+    },
+    {
+        "title": "Knee replacement",
+        "link": "#",
+        "tag": "",
+        "synonyms": "",
+        "misspelling": ""
+    },
+    {
+        "title": "Knock knees",
+        "link": "#",
+        "tag": "",
+        "synonyms": "",
+        "misspelling": ""
+    },
+    {
+        "title": "Knocked-out tooth",
+        "link": "#",
+        "tag": "",
+        "synonyms": "",
+        "misspelling": ""
+    },
+    {
+        "title": "Kwashiorkor",
+        "link": "#",
+        "tag": "",
+        "synonyms": "",
+        "misspelling": ""
+    },
+    {
+        "title": "\"Leaky gut syndrome\"",
+        "link": "#",
+        "tag": "",
+        "synonyms": "",
+        "misspelling": ""
+    },
+    {
+        "title": "Labial fusion",
+        "link": "#",
+        "tag": "",
+        "synonyms": "",
+        "misspelling": ""
+    },
+    {
+        "title": "Labyrinthitis",
+        "link": "#",
+        "tag": "",
+        "synonyms": "",
+        "misspelling": ""
+    },
+    {
+        "title": "Lactate dehydrogenase (LDH) test",
+        "link": "#",
+        "tag": "",
+        "synonyms": "",
+        "misspelling": ""
+    },
+    {
+        "title": "Lactose intolerance",
+        "link": "#",
+        "tag": "",
+        "synonyms": "",
+        "misspelling": ""
+    },
+    {
+        "title": "Lambert-Eaton myasthenic syndrome",
+        "link": "#",
+        "tag": "",
+        "synonyms": "",
+        "misspelling": ""
+    },
+    {
+        "title": "Laparoscopy (keyhole surgery)",
+        "link": "#",
+        "tag": "",
+        "synonyms": "",
+        "misspelling": ""
+    },
+    {
+        "title": "Laryngeal (larynx) cancer",
+        "link": "#",
+        "tag": "",
+        "synonyms": "",
+        "misspelling": ""
+    },
+    {
+        "title": "Laryngitis",
+        "link": "#",
+        "tag": "",
+        "synonyms": "",
+        "misspelling": ""
+    },
+    {
+        "title": "Laxatives",
+        "link": "#",
+        "tag": "",
+        "synonyms": "",
+        "misspelling": ""
+    },
+    {
+        "title": "Lazy eye",
+        "link": "#",
+        "tag": "",
+        "synonyms": "",
+        "misspelling": ""
+    },
+    {
+        "title": "Leg cramps",
+        "link": "#",
+        "tag": "",
+        "synonyms": "",
+        "misspelling": ""
+    },
+    {
+        "title": "Leg ulcer",
+        "link": "#",
+        "tag": "",
+        "synonyms": "",
+        "misspelling": ""
+    },
+    {
+        "title": "Leukaemia (acute myeloid)",
+        "link": "#",
+        "tag": "",
+        "synonyms": "",
+        "misspelling": ""
+    },
+    {
+        "title": "Leukaemia (chronic myeloid)",
+        "link": "#",
+        "tag": "",
+        "synonyms": "",
+        "misspelling": ""
+    },
+    {
+        "title": "Leukaemia (hairy cell)",
+        "link": "#",
+        "tag": "",
+        "synonyms": "",
+        "misspelling": ""
+    },
+    {
+        "title": "Leukoplakia",
+        "link": "#",
+        "tag": "",
+        "synonyms": "",
+        "misspelling": ""
+    },
+    {
+        "title": "Lichen planus",
+        "link": "#",
+        "tag": "",
+        "synonyms": "",
+        "misspelling": ""
+    },
+    {
+        "title": "Lichen sclerosus",
+        "link": "#",
+        "tag": "",
+        "synonyms": "",
+        "misspelling": ""
+    },
+    {
+        "title": "Limping in children",
+        "link": "#",
+        "tag": "",
+        "synonyms": "",
+        "misspelling": ""
+    },
+    {
+        "title": "Lipoedema",
+        "link": "#",
+        "tag": "",
+        "synonyms": "",
+        "misspelling": ""
+    },
+    {
+        "title": "Osteomyelitis",
+        "link": "#",
+        "tag": "",
+        "synonyms": "",
+        "misspelling": ""
+    },
+    {
+        "title": "Osteopathy",
+        "link": "#",
+        "tag": "",
+        "synonyms": "",
+        "misspelling": ""
+    },
+    {
+        "title": "Osteoporosis",
+        "link": "#",
+        "tag": "",
+        "synonyms": "",
+        "misspelling": ""
+    },
+    {
+        "title": "Otosclerosis",
+        "link": "#",
+        "tag": "",
+        "synonyms": "",
+        "misspelling": ""
+    },
+    {
+        "title": "Ovarian cancer",
+        "link": "#",
+        "tag": "",
+        "synonyms": "",
+        "misspelling": ""
+    },
+    {
+        "title": "Ovarian cyst",
+        "link": "#",
+        "tag": "",
+        "synonyms": "",
+        "misspelling": ""
+    },
+    {
+        "title": "Ovulation pain",
+        "link": "#",
+        "tag": "",
+        "synonyms": "",
+        "misspelling": ""
+    },
+    {
+        "title": "Oxygen therapy",
+        "link": "#",
+        "tag": "",
+        "synonyms": "",
+        "misspelling": ""
+    },
+    {
+        "title": "Pacemaker implantation",
+        "link": "#",
+        "tag": "",
+        "synonyms": "",
+        "misspelling": ""
+    },
+    {
+        "title": "Palpitations",
+        "link": "#",
+        "tag": "",
+        "synonyms": "",
+        "misspelling": ""
+    },
+    {
+        "title": "Pancreas transplant",
+        "link": "#",
+        "tag": "",
+        "synonyms": "",
+        "misspelling": ""
+    },
+    {
+        "title": "Pancreatic cancer",
+        "link": "#",
+        "tag": "",
+        "synonyms": "",
+        "misspelling": ""
+    },
+    {
+        "title": "Pancreatitis (acute)",
+        "link": "#",
+        "tag": "",
+        "synonyms": "",
+        "misspelling": ""
+    },
+    {
+        "title": "Pancreatitis (chronic)",
+        "link": "#",
+        "tag": "",
+        "synonyms": "",
+        "misspelling": ""
+    },
+    {
+        "title": "Paralysis",
+        "link": "#",
+        "tag": "",
+        "synonyms": "",
+        "misspelling": ""
+    },
+    {
+        "title": "Patau's syndrome",
+        "link": "#",
+        "tag": "",
+        "synonyms": "",
+        "misspelling": ""
+    },
+    {
+        "title": "Peak flow test",
+        "link": "#",
+        "tag": "",
+        "synonyms": "",
+        "misspelling": ""
+    },
+    {
+        "title": "Pelvic organ prolapse",
+        "link": "#",
+        "tag": "",
+        "synonyms": "",
+        "misspelling": ""
+    },
+    {
+        "title": "Pelvic pain",
+        "link": "#",
+        "tag": "",
+        "synonyms": "",
+        "misspelling": ""
+    },
+    {
+        "title": "Penile cancer",
+        "link": "#",
+        "tag": "",
+        "synonyms": "",
+        "misspelling": ""
+    },
+    {
+        "title": "Penis problems",
+        "link": "#",
+        "tag": "",
+        "synonyms": "",
+        "misspelling": ""
+    },
+    {
+        "title": "Perforated eardrum",
+        "link": "#",
+        "tag": "",
+        "synonyms": "",
+        "misspelling": ""
+    },
+    {
+        "title": "Period pain",
+        "link": "#",
+        "tag": "",
+        "synonyms": "",
+        "misspelling": ""
+    },
+    {
+        "title": "Periods",
+        "link": "#",
+        "tag": "",
+        "synonyms": "",
+        "misspelling": ""
+    },
+    {
+        "title": "Periods (heavy)",
+        "link": "#",
+        "tag": "",
+        "synonyms": "",
+        "misspelling": ""
+    },
+    {
+        "title": "Periods (irregular)",
+        "link": "#",
+        "tag": "",
+        "synonyms": "",
+        "misspelling": ""
+    },
+    {
+        "title": "Periods (stopped or missed)",
+        "link": "#",
+        "tag": "",
+        "synonyms": "",
+        "misspelling": ""
+    },
+    {
+        "title": "Phobias",
+        "link": "#",
+        "tag": "",
+        "synonyms": "",
+        "misspelling": ""
+    },
+    {
+        "title": "Phosphate test",
+        "link": "#",
+        "tag": "",
+        "synonyms": "",
+        "misspelling": ""
+    },
+    {
+        "title": "Photodynamic therapy (PDT)",
+        "link": "#",
+        "tag": "",
+        "synonyms": "",
+        "misspelling": ""
+    },
+    {
+        "title": "Physiotherapy",
+        "link": "/physiotherapy",
+        "tag": "",
+        "synonyms": "physio, improving movement, physical activity, physical, aerobic, movement, better movement, sport rehab, fitness",
+        "misspelling": "pyhsiotherapy, phisiotherapy, phisiotherapie, physiotherapie, fysiotherapy, fysiotherapie, pyhsio, fisio, fizio"
+    },
+    {
+        "title": "Piles",
+        "link": "#",
+        "tag": "",
+        "synonyms": "",
+        "misspelling": ""
+    },
+    {
+        "title": "Piles (haemorrhoids)",
+        "link": "#",
+        "tag": "",
+        "synonyms": "",
+        "misspelling": ""
+    },
+    {
+        "title": "Pilonidal sinus",
+        "link": "#",
+        "tag": "",
+        "synonyms": "",
+        "misspelling": ""
+    },
+    {
+        "title": "Pins and needles",
+        "link": "#",
+        "tag": "",
+        "synonyms": "",
+        "misspelling": ""
+    },
+    {
+        "title": "PIP breast implants",
+        "link": "#",
+        "tag": "",
+        "synonyms": "",
+        "misspelling": ""
+    },
+    {
+        "title": "Pityriasis rosea",
+        "link": "#",
+        "tag": "",
+        "synonyms": "",
+        "misspelling": ""
+    },
+    {
+        "title": "Pityriasis versicolor",
+        "link": "#",
+        "tag": "",
+        "synonyms": "",
+        "misspelling": ""
+    },
+    {
+        "title": "Plantar fasciitis",
+        "link": "#",
+        "tag": "",
+        "synonyms": "",
+        "misspelling": ""
+    },
+    {
+        "title": "Plastic surgery",
+        "link": "#",
+        "tag": "",
+        "synonyms": "",
+        "misspelling": ""
+    },
+    {
+        "title": "Pleurisy",
+        "link": "#",
+        "tag": "",
+        "synonyms": "",
+        "misspelling": ""
+    },
+    {
+        "title": "PMS (premenstrual syndrome)",
+        "link": "#",
+        "tag": "",
+        "synonyms": "",
+        "misspelling": ""
+    },
+    {
+        "title": "Pneumonia",
+        "link": "#",
+        "tag": "",
+        "synonyms": "lung",
+        "misspelling": "pnumonia, pnewmonia, neumonia, numonia, newmonia"
+    },
+    {
+        "title": "Poisoning",
+        "link": "#",
+        "tag": "",
+        "synonyms": "",
+        "misspelling": ""
+    },
+    {
+        "title": "Polio",
+        "link": "#",
+        "tag": "",
+        "synonyms": "",
+        "misspelling": ""
+    },
+    {
+        "title": "Polycystic ovary syndrome",
+        "link": "#",
+        "tag": "",
+        "synonyms": "",
+        "misspelling": ""
+    },
+    {
+        "title": "Polycythaemia",
+        "link": "#",
+        "tag": "",
+        "synonyms": "",
+        "misspelling": ""
+    },
+    {
+        "title": "Polyhydramnios (too much amniotic fluid)",
+        "link": "#",
+        "tag": "",
+        "synonyms": "",
+        "misspelling": ""
+    },
+    {
+        "title": "Polymyalgia rheumatica",
+        "link": "#",
+        "tag": "",
+        "synonyms": "",
+        "misspelling": ""
+    },
+
+    {
+        "title": "Popliteal cyst",
+        "link": "#",
+        "tag": "",
+        "synonyms": "",
+        "misspelling": ""
+    },
+    {
+        "title": "Post-herpetic neuralgia",
+        "link": "#",
+        "tag": "",
+        "synonyms": "",
+        "misspelling": ""
+    },
+    {
+        "title": "Post-mortem",
+        "link": "#",
+        "tag": "",
+        "synonyms": "",
+        "misspelling": ""
+    },
+    {
+        "title": "Post-polio syndrome",
+        "link": "#",
+        "tag": "",
+        "synonyms": "",
+        "misspelling": ""
+    },
+    {
+        "title": "Postnatal depression",
+        "link": "#",
+        "tag": "",
+        "synonyms": "",
+        "misspelling": ""
+    },
+    {
+        "title": "Postpartum psychosis",
+        "link": "#",
+        "tag": "",
+        "synonyms": "",
+        "misspelling": ""
+    },
+    {
+        "title": "Potassium test",
+        "link": "#",
+        "tag": "",
+        "synonyms": "",
+        "misspelling": ""
+    },
+    {
+        "title": "Prader-Willi syndrome",
+        "link": "#",
+        "tag": "",
+        "synonyms": "",
+        "misspelling": ""
+    },
+    {
+        "title": "Premature ejaculation",
+        "link": "#",
+        "tag": "",
+        "synonyms": "",
+        "misspelling": ""
+    },
+    {
+        "title": "Pressure ulcers (pressure sores)",
+        "link": "#",
+        "tag": "",
+        "synonyms": "",
+        "misspelling": ""
+    },
+    {
+        "title": "Prickly heat",
+        "link": "#",
+        "tag": "",
+        "synonyms": "",
+        "misspelling": ""
+    },
+    {
+        "title": "Primary biliary cholangitis (primary biliary cirrhosis)",
+        "link": "#",
+        "tag": "",
+        "synonyms": "",
+        "misspelling": ""
+    },
+    {
+        "title": "Probiotics",
+        "link": "#",
+        "tag": "",
+        "synonyms": "",
+        "misspelling": ""
+    },
+    {
+        "title": "Proctalgia",
+        "link": "#",
+        "tag": "",
+        "synonyms": "",
+        "misspelling": ""
+    },
+    {
+        "title": "Progressive supranuclear palsy",
+        "link": "#",
+        "tag": "",
+        "synonyms": "",
+        "misspelling": ""
+    },
+    {
+        "title": "Prolapse (pelvic organ)",
+        "link": "#",
+        "tag": "",
+        "synonyms": "",
+        "misspelling": ""
+    },
+    {
+        "title": "Prosopagnosia (face blindness)",
+        "link": "#",
+        "tag": "",
+        "synonyms": "",
+        "misspelling": ""
+    },
+    {
+        "title": "Prostate cancer",
+        "link": "#",
+        "tag": "",
+        "synonyms": "",
+        "misspelling": ""
+    },
+    {
+        "title": "Prostate enlargement",
+        "link": "#",
+        "tag": "",
+        "synonyms": "",
+        "misspelling": ""
+    },
+    {
+        "title": "Prostate problems",
+        "link": "#",
+        "tag": "",
+        "synonyms": "",
+        "misspelling": ""
+    },
+    {
+        "title": "Prostatitis",
+        "link": "#",
+        "tag": "",
+        "synonyms": "",
+        "misspelling": ""
+    },
+    {
+        "title": "Psoriasis",
+        "link": "#",
+        "tag": "",
+        "synonyms": "",
+        "misspelling": ""
+    },
+    {
+        "title": "Psoriatic arthritis",
+        "link": "#",
+        "tag": "",
+        "synonyms": "",
+        "misspelling": ""
+    },
+    {
+        "title": "Psychiatry",
+        "link": "#",
+        "tag": "",
+        "synonyms": "",
+        "misspelling": ""
+    },
+    {
+        "title": "Psychosis",
+        "link": "#",
+        "tag": "",
+        "synonyms": "",
+        "misspelling": ""
+    },
+    {
+        "title": "Puberty (early or delayed)",
+        "link": "#",
+        "tag": "",
+        "synonyms": "",
+        "misspelling": ""
+    },
+    {
+        "title": "Pubic lice",
+        "link": "#",
+        "tag": "",
+        "synonyms": "",
+        "misspelling": ""
+    },
+    {
+        "title": "Pudendal neuralgia",
+        "link": "#",
+        "tag": "",
+        "synonyms": "",
+        "misspelling": ""
+    },
+    {
+        "title": "Pulmonary embolism",
+        "link": "#",
+        "tag": "",
+        "synonyms": "",
+        "misspelling": ""
+    },
+    {
+        "title": "Pulmonary hypertension",
+        "link": "#",
+        "tag": "",
+        "synonyms": "",
+        "misspelling": ""
+    },
+    {
+        "title": "Pyoderma gangrenosum",
+        "link": "#",
+        "tag": "",
+        "synonyms": "",
+        "misspelling": ""
+    },
+    {
+        "title": "Q fever",
+        "link": "#",
+        "tag": "",
+        "synonyms": "",
+        "misspelling": ""
+    },
+    {
+        "title": "Quinsy",
+        "link": "#",
+        "tag": "",
+        "synonyms": "",
+        "misspelling": ""
+    },
+    {
+        "title": "Rabies",
+        "link": "#",
+        "tag": "",
+        "synonyms": "",
+        "misspelling": ""
+    },
+    {
+        "title": "Rashes in babies and children",
+        "link": "/lab-3/b/search-results/meningitis",
+        "tag": "",
+        "synonyms": "rash, child rash",
+        "misspelling": ""
+    },
+    {
+        "title": "Raynaud's",
+        "link": "#",
+        "tag": "",
+        "synonyms": "",
+        "misspelling": ""
+    },
+    {
+        "title": "Reactive arthritis",
+        "link": "#",
+        "tag": "",
+        "synonyms": "",
+        "misspelling": ""
+    },
+    {
+        "title": "Red blood cell count",
+        "link": "#",
+        "tag": "",
+        "synonyms": "",
+        "misspelling": ""
+    },
+    {
+        "title": "Red eye",
+        "link": "#",
+        "tag": "",
+        "synonyms": "",
+        "misspelling": ""
+    },
+    {
+        "title": "Reflux in babies",
+        "link": "#",
+        "tag": "",
+        "synonyms": "",
+        "misspelling": ""
+    },
+    {
+        "title": "Repetitive strain injury (RSI)",
+        "link": "#",
+        "tag": "",
+        "synonyms": "",
+        "misspelling": ""
+    },
+    {
+        "title": "Restless legs syndrome",
+        "link": "#",
+        "tag": "",
+        "synonyms": "",
+        "misspelling": ""
+    },
+    {
+        "title": "Retinal detachment",
+        "link": "#",
+        "tag": "",
+        "synonyms": "",
+        "misspelling": ""
+    },
+    {
+        "title": "Retinal migraine",
+        "link": "#",
+        "tag": "",
+        "synonyms": "",
+        "misspelling": ""
+    },
+    {
+        "title": "Retinoblastoma (eye cancer in children)",
+        "link": "#",
+        "tag": "",
+        "synonyms": "",
+        "misspelling": ""
+    },
+    {
+        "title": "Rett syndrome",
+        "link": "#",
+        "tag": "",
+        "synonyms": "",
+        "misspelling": ""
+    },
+    {
+        "title": "Reye's syndrome",
+        "link": "#",
+        "tag": "",
+        "synonyms": "",
+        "misspelling": ""
+    },
+    {
+        "title": "Rheumatic fever",
+        "link": "#",
+        "tag": "",
+        "synonyms": "",
+        "misspelling": ""
+    },
+    {
+        "title": "Rheumatoid arthritis",
+        "link": "#",
+        "tag": "",
+        "synonyms": "",
+        "misspelling": ""
+    },
+    {
+        "title": "Rhinitis (allergic)",
+        "link": "#",
+        "tag": "",
+        "synonyms": "",
+        "misspelling": ""
+    },
+    {
+        "title": "Rickets and osteomalacia",
+        "link": "#",
+        "tag": "",
+        "synonyms": "",
+        "misspelling": ""
+    },
+    {
+        "title": "Ringworm",
+        "link": "#",
+        "tag": "",
+        "synonyms": "",
+        "misspelling": ""
+    },
+    {
+        "title": "Root canal treatment",
+        "link": "#",
+        "tag": "",
+        "synonyms": "",
+        "misspelling": ""
+    },
+    {
+        "title": "Rosacea",
+        "link": "#",
+        "tag": "",
+        "synonyms": "",
+        "misspelling": ""
+    },
+    {
+        "title": "Roseola",
+        "link": "#",
+        "tag": "",
+        "synonyms": "",
+        "misspelling": ""
+    },
+    {
+        "title": "Roundworm",
+        "link": "#",
+        "tag": "",
+        "synonyms": "",
+        "misspelling": ""
+    },
+    {
+        "title": "Rubella (german measles)",
+        "link": "#",
+        "tag": "",
+        "synonyms": "",
+        "misspelling": ""
+    },
+    {
+        "title": "Salivary gland stones",
+        "link": "#",
+        "tag": "",
+        "synonyms": "",
+        "misspelling": ""
+    },
+    {
+        "title": "Sarcoidosis",
+        "link": "#",
+        "tag": "",
+        "synonyms": "",
+        "misspelling": ""
+    },
+    {
+        "title": "SARS (severe acute respiratory syndrome)",
+        "link": "#",
+        "tag": "",
+        "synonyms": "",
+        "misspelling": ""
+    },
+    {
+        "title": "Scabies",
+        "link": "#",
+        "tag": "",
+        "synonyms": "",
+        "misspelling": ""
+    },
+    {
+        "title": "Scarlet fever",
+        "link": "#",
+        "tag": "",
+        "synonyms": "",
+        "misspelling": ""
+    },
+    {
+        "title": "Scars",
+        "link": "#",
+        "tag": "",
+        "synonyms": "",
+        "misspelling": ""
+    },
+    {
+        "title": "Schistosomiasis (bilharzia)",
+        "link": "#",
+        "tag": "",
+        "synonyms": "",
+        "misspelling": ""
+    },
+    {
+        "title": "Sciatica",
+        "link": "#",
+        "tag": "",
+        "synonyms": "",
+        "misspelling": ""
+    },
+    {
+        "title": "Scleroderma",
+        "link": "#",
+        "tag": "",
+        "synonyms": "",
+        "misspelling": ""
+    },
+    {
+        "title": "Scoliosis",
+        "link": "#",
+        "tag": "",
+        "synonyms": "",
+        "misspelling": ""
+    },
+    {
+        "title": "Scurvy",
+        "link": "#",
+        "tag": "",
+        "synonyms": "",
+        "misspelling": ""
+    },
+    {
+        "title": "Seizures (children with fever)",
+        "link": "#",
+        "tag": "",
+        "synonyms": "",
+        "misspelling": ""
+    },
+    {
+        "title": "Seizures (fits)",
+        "link": "#",
+        "tag": "",
+        "synonyms": "",
+        "misspelling": ""
+    },
+    {
+        "title": "Self-harm",
+        "link": "#",
+        "tag": "",
+        "synonyms": "",
+        "misspelling": ""
+    },
+    {
+        "title": "Sense of smell (lost/changed)",
+        "link": "#",
+        "tag": "",
+        "synonyms": "",
+        "misspelling": ""
+    },
+    {
+        "title": "Septic arthritis",
+        "link": "#",
+        "tag": "",
+        "synonyms": "",
+        "misspelling": ""
+    },
+    {
+        "title": "Septic shock",
+        "link": "#",
+        "tag": "",
+        "synonyms": "",
+        "misspelling": ""
+    },
+    {
+        "title": "Severe head injury",
+        "link": "#",
+        "tag": "",
+        "synonyms": "",
+        "misspelling": ""
+    },
+    {
+        "title": "Shaking",
+        "link": "#",
+        "tag": "",
+        "synonyms": "",
+        "misspelling": ""
+    },
+    {
+        "title": "Shin pain (shin splints)",
+        "link": "#",
+        "tag": "",
+        "synonyms": "",
+        "misspelling": ""
+    },
+    {
+        "title": "Shin splints",
+        "link": "#",
+        "tag": "",
+        "synonyms": "",
+        "misspelling": ""
+    },
+    {
+        "title": "Shingles",
+        "link": "#",
+        "tag": "",
+        "synonyms": "",
+        "misspelling": ""
+    },
+    {
+        "title": "Short-sightedness (myopia)",
+        "link": "#",
+        "tag": "",
+        "synonyms": "",
+        "misspelling": ""
+    },
+    {
+        "title": "Shortness of breath",
+        "link": "#",
+        "tag": "",
+        "synonyms": "",
+        "misspelling": ""
+    },
+    {
+        "title": "Shoulder impingement",
+        "link": "#",
+        "tag": "",
+        "synonyms": "",
+        "misspelling": ""
+    },
+    {
+        "title": "Shoulder pain",
+        "link": "#",
+        "tag": "",
+        "synonyms": "",
+        "misspelling": ""
+    },
+    {
+        "title": "Silicosis",
+        "link": "#",
+        "tag": "",
+        "synonyms": "",
+        "misspelling": ""
+    },
+    {
+        "title": "Sinus cancer",
+        "link": "#",
+        "tag": "",
+        "synonyms": "",
+        "misspelling": ""
+    },
+    {
+        "title": "Sinusitis",
+        "link": "#",
+        "tag": "",
+        "synonyms": "",
+        "misspelling": ""
+    },
+    {
+        "title": "Sinusitis (sinus infection)",
+        "link": "#",
+        "tag": "",
+        "synonyms": "",
+        "misspelling": ""
+    },
+    {
+        "title": "Sjögren's syndrome",
+        "link": "#",
+        "tag": "",
+        "synonyms": "",
+        "misspelling": ""
+    },
+    {
+        "title": "Skin cancer (melanoma)",
+        "link": "#",
+        "tag": "",
+        "synonyms": "",
+        "misspelling": ""
+    },
+    {
+        "title": "Skin cancer (non-melanoma)",
+        "link": "#",
+        "tag": "",
+        "synonyms": "",
+        "misspelling": ""
+    },
+    {
+        "title": "Skin cyst",
+        "link": "#",
+        "tag": "",
+        "synonyms": "",
+        "misspelling": ""
+    },
+    {
+        "title": "Skin tags",
+        "link": "#",
+        "tag": "",
+        "synonyms": "",
+        "misspelling": ""
+    },
+    {
+        "title": "Slapped cheek syndrome",
+        "link": "#",
+        "tag": "",
+        "synonyms": "",
+        "misspelling": ""
+    },
+    {
+        "title": "Sleep apnoea",
+        "link": "#",
+        "tag": "",
+        "synonyms": "",
+        "misspelling": ""
+    },
+    {
+        "title": "Sleep paralysis",
+        "link": "#",
+        "tag": "",
+        "synonyms": "",
+        "misspelling": ""
+    },
+    {
+        "title": "Sleepwalking",
+        "link": "#",
+        "tag": "",
+        "synonyms": "",
+        "misspelling": ""
+    },
+    {
+        "title": "Small bowel transplant",
+        "link": "#",
+        "tag": "",
+        "synonyms": "",
+        "misspelling": ""
+    },
+    {
+        "title": "Smear test",
+        "link": "#",
+        "tag": "",
+        "synonyms": "",
+        "misspelling": ""
+    },
+    {
+        "title": "Smelly urine",
+        "link": "#",
+        "tag": "",
+        "synonyms": "",
+        "misspelling": ""
+    },
+    {
+        "title": "Smoking (treatments to stop)",
+        "link": "#",
+        "tag": "",
+        "synonyms": "",
+        "misspelling": ""
+    },
+    {
+        "title": "Snake bites",
+        "link": "#",
+        "tag": "",
+        "synonyms": "",
+        "misspelling": ""
+    },
+    {
+        "title": "Snoring",
+        "link": "#",
+        "tag": "",
+        "synonyms": "",
+        "misspelling": ""
+    },
+    {
+        "title": "Social anxiety (social phobia)",
+        "link": "#",
+        "tag": "",
+        "synonyms": "",
+        "misspelling": ""
+    },
+    {
+        "title": "Social care and support guide",
+        "link": "#",
+        "tag": "",
+        "synonyms": "",
+        "misspelling": ""
+    },
+    {
+        "title": "Soft tissue sarcomas",
+        "link": "#",
+        "tag": "",
+        "synonyms": "",
+        "misspelling": ""
+    },
+    {
+        "title": "Soiling (child pooing their pants)",
+        "link": "#",
+        "tag": "",
+        "synonyms": "",
+        "misspelling": ""
+    },
+    {
+        "title": "Solar keratoses",
+        "link": "#",
+        "tag": "",
+        "synonyms": "",
+        "misspelling": ""
+    },
+    {
+        "title": "Sore lips",
+        "link": "#",
+        "tag": "",
+        "synonyms": "",
+        "misspelling": ""
+    },
+    {
+        "title": "Sore or white tongue",
+        "link": "#",
+        "tag": "",
+        "synonyms": "",
+        "misspelling": ""
+    },
+    {
+        "title": "Sore throat",
+        "link": "#",
+        "tag": "",
+        "synonyms": "",
+        "misspelling": ""
+    },
+    {
+        "title": "Sperm count (low)",
+        "link": "#",
+        "tag": "",
+        "synonyms": "",
+        "misspelling": ""
+    },
+    {
+        "title": "Spirometry",
+        "link": "#",
+        "tag": "",
+        "synonyms": "",
+        "misspelling": ""
+    },
+    {
+        "title": "Spleen problems and spleen removal",
+        "link": "#",
+        "tag": "",
+        "synonyms": "",
+        "misspelling": ""
+    },
+    {
+        "title": "Spondylolisthesis",
+        "link": "#",
+        "tag": "",
+        "synonyms": "",
+        "misspelling": ""
+    },
+    {
+        "title": "Sports injuries",
+        "link": "#",
+        "tag": "",
+        "synonyms": "",
+        "misspelling": ""
+    },
+    {
+        "title": "Sprains and strains",
+        "link": "#",
+        "tag": "",
+        "synonyms": "",
+        "misspelling": ""
+    },
+    {
+        "title": "Squamous cell carcinoma",
+        "link": "#",
+        "tag": "",
+        "synonyms": "",
+        "misspelling": ""
+    },
+    {
+        "title": "Squint",
+        "link": "#",
+        "tag": "",
+        "synonyms": "",
+        "misspelling": ""
+    },
+    {
+        "title": "Stammering",
+        "link": "#",
+        "tag": "",
+        "synonyms": "",
+        "misspelling": ""
+    },
+    {
+        "title": "Statins",
+        "link": "#",
+        "tag": "",
+        "synonyms": "",
+        "misspelling": ""
+    },
+    {
+        "title": "Stem cell and bone marrow transplants",
+        "link": "#",
+        "tag": "",
+        "synonyms": "",
+        "misspelling": ""
+    },
+    {
+        "title": "Stent insertion",
+        "link": "#",
+        "tag": "",
+        "synonyms": "",
+        "misspelling": ""
+    },
+    {
+        "title": "Steroid cream",
+        "link": "#",
+        "tag": "",
+        "synonyms": "",
+        "misspelling": ""
+    },
+    {
+        "title": "Steroid inhalers",
+        "link": "#",
+        "tag": "",
+        "synonyms": "",
+        "misspelling": ""
+    },
+    {
+        "title": "Steroid injections",
+        "link": "#",
+        "tag": "",
+        "synonyms": "",
+        "misspelling": ""
+    },
+    {
+        "title": "Steroid misuse",
+        "link": "#",
+        "tag": "",
+        "synonyms": "",
+        "misspelling": ""
+    },
+    {
+        "title": "Steroid nasal sprays",
+        "link": "#",
+        "tag": "",
+        "synonyms": "",
+        "misspelling": ""
+    },
+    {
+        "title": "Steroid tablets",
+        "link": "#",
+        "tag": "",
+        "synonyms": "",
+        "misspelling": ""
+    },
+    {
+        "title": "Steroids",
+        "link": "#",
+        "tag": "",
+        "synonyms": "",
+        "misspelling": ""
+    },
+    {
+        "title": "Stevens-Johnson syndrome",
+        "link": "#",
+        "tag": "",
+        "synonyms": "",
+        "misspelling": ""
+    },
+    {
+        "title": "Stillbirth",
+        "link": "#",
+        "tag": "",
+        "synonyms": "",
+        "misspelling": ""
+    },
+    {
+        "title": "Sting or bite (insect)",
+        "link": "#",
+        "tag": "",
+        "synonyms": "",
+        "misspelling": ""
+    },
+    {
+        "title": "Stomach ache",
+        "link": "#",
+        "tag": "",
+        "synonyms": "",
+        "misspelling": ""
+    },
+    {
+        "title": "Stomach bug",
+        "link": "/diarrhoea",
+        "tag": "",
+        "synonyms": "shits, poos, runs, squits",
+        "misspelling": ""
+    },
+    {
+        "title": "Stomach cancer",
+        "link": "#",
+        "tag": "",
+        "synonyms": "",
+        "misspelling": ""
+    },
+    {
+        "title": "Stomach ulcer",
+        "link": "#",
+        "tag": "",
+        "synonyms": "",
+        "misspelling": ""
+    },
+    {
+        "title": "Stop smoking treatments",
+        "link": "#",
+        "tag": "",
+        "synonyms": "",
+        "misspelling": ""
+    },
+    {
+        "title": "Stopped or missed periods",
+        "link": "#",
+        "tag": "",
+        "synonyms": "",
+        "misspelling": ""
+    },
+    {
+        "title": "Stretch marks",
+        "link": "#",
+        "tag": "",
+        "synonyms": "",
+        "misspelling": ""
+    },
+    {
+        "title": "Stroke",
+        "link": "#",
+        "tag": "",
+        "synonyms": "",
+        "misspelling": ""
+    },
+    {
+        "title": "Stuttering",
+        "link": "#",
+        "tag": "",
+        "synonyms": "",
+        "misspelling": ""
+    },
+    {
+        "title": "Stye",
+        "link": "#",
+        "tag": "",
+        "synonyms": "",
+        "misspelling": ""
+    },
+    {
+        "title": "Subarachnoid haemorrhage",
+        "link": "#",
+        "tag": "",
+        "synonyms": "",
+        "misspelling": ""
+    },
+    {
+        "title": "Subdural haematoma",
+        "link": "#",
+        "tag": "",
+        "synonyms": "",
+        "misspelling": ""
+    },
+    {
+        "title": "Sudden confusion (delirium)",
+        "link": "#",
+        "tag": "",
+        "synonyms": "",
+        "misspelling": ""
+    },
+    {
+        "title": "Sudden infant death syndrome (SIDS)",
+        "link": "#",
+        "tag": "",
+        "synonyms": "",
+        "misspelling": ""
+    },
+    {
+        "title": "Suicidal thoughts",
+        "link": "#",
+        "tag": "",
+        "synonyms": "",
+        "misspelling": ""
+    },
+    {
+        "title": "Sunburn",
+        "link": "#",
+        "tag": "",
+        "synonyms": "",
+        "misspelling": ""
+    },
+    {
+        "title": "Surgery (having an operation)",
+        "link": "#",
+        "tag": "",
+        "synonyms": "",
+        "misspelling": ""
+    },
+    {
+        "title": "Swallowing pills",
+        "link": "#",
+        "tag": "",
+        "synonyms": "",
+        "misspelling": ""
+    },
+    {
+        "title": "Swallowing problems",
+        "link": "#",
+        "tag": "",
+        "synonyms": "",
+        "misspelling": ""
+    },
+    {
+        "title": "Sweating (excessive)",
+        "link": "#",
+        "tag": "",
+        "synonyms": "",
+        "misspelling": ""
+    },
+    {
+        "title": "Sweating at night",
+        "link": "#",
+        "tag": "",
+        "synonyms": "",
+        "misspelling": ""
+    },
+    {
+        "title": "Swine flu (H1N1)",
+        "link": "#",
+        "tag": "",
+        "synonyms": "",
+        "misspelling": ""
+    },
+    {
+        "title": "Swollen ankles, feet and legs (oedema)",
+        "link": "#",
+        "tag": "",
+        "synonyms": "",
+        "misspelling": ""
+    },
+    {
+        "title": "Swollen arms and hands (oedema)",
+        "link": "#",
+        "tag": "",
+        "synonyms": "",
+        "misspelling": ""
+    },
+    {
+        "title": "Swollen glands",
+        "link": "#",
+        "tag": "",
+        "synonyms": "",
+        "misspelling": ""
+    },
+    {
+        "title": "Tapeworms",
+        "link": "#",
+        "tag": "",
+        "synonyms": "",
+        "misspelling": ""
+    },
+    {
+        "title": "Temporal arteritis",
+        "link": "#",
+        "tag": "",
+        "synonyms": "",
+        "misspelling": ""
+    },
+    {
+        "title": "Tendonitis",
+        "link": "#",
+        "tag": "",
+        "synonyms": "",
+        "misspelling": ""
+    },
+    {
+        "title": "Tennis elbow",
+        "link": "#",
+        "tag": "",
+        "synonyms": "",
+        "misspelling": ""
+    },
+    {
+        "title": "TENS (transcutaneous electrical nerve stimulation)",
+        "link": "#",
+        "tag": "",
+        "synonyms": "",
+        "misspelling": ""
+    },
+    {
+        "title": "Tension-type headaches",
+        "link": "#",
+        "tag": "",
+        "synonyms": "",
+        "misspelling": ""
+    },
+    {
+        "title": "Testicle lumps and swellings",
+        "link": "#",
+        "tag": "",
+        "synonyms": "",
+        "misspelling": ""
+    },
+    {
+        "title": "Testicular cancer",
+        "link": "#",
+        "tag": "",
+        "synonyms": "",
+        "misspelling": ""
+    },
+    {
+        "title": "Tetanus",
+        "link": "#",
+        "tag": "",
+        "synonyms": "",
+        "misspelling": ""
+    },
+    {
+        "title": "Thalassaemia",
+        "link": "#",
+        "tag": "",
+        "synonyms": "",
+        "misspelling": ""
+    },
+    {
+        "title": "Thirst (excessive)",
+        "link": "#",
+        "tag": "",
+        "synonyms": "",
+        "misspelling": ""
+    },
+    {
+        "title": "Threadworms",
+        "link": "#",
+        "tag": "",
+        "synonyms": "",
+        "misspelling": ""
+    },
+    {
+        "title": "Throat (sore)",
+        "link": "#",
+        "tag": "",
+        "synonyms": "",
+        "misspelling": ""
+    },
+    {
+        "title": "Thrush in men and women",
+        "link": "#",
+        "tag": "",
+        "synonyms": "",
+        "misspelling": ""
+    },
+    {
+        "title": "Thyroid cancer",
+        "link": "#",
+        "tag": "",
+        "synonyms": "",
+        "misspelling": ""
+    },
+    {
+        "title": "TIA",
+        "link": "#",
+        "tag": "",
+        "synonyms": "",
+        "misspelling": ""
+    },
+    {
+        "title": "Tics",
+        "link": "#",
+        "tag": "",
+        "synonyms": "",
+        "misspelling": ""
+    },
+    {
+        "title": "Tinnitus",
+        "link": "#",
+        "tag": "",
+        "synonyms": "",
+        "misspelling": ""
+    },
+    {
+        "title": "Tongue (sore or white)",
+        "link": "#",
+        "tag": "",
+        "synonyms": "",
+        "misspelling": ""
+    },
+    {
+        "title": "Tongue cancer",
+        "link": "#",
+        "tag": "",
+        "synonyms": "",
+        "misspelling": ""
+    },
+    {
+        "title": "Tongue-tie",
+        "link": "#",
+        "tag": "",
+        "synonyms": "",
+        "misspelling": ""
+    },
+    {
+        "title": "Tonsillitis",
+        "link": "#",
+        "tag": "",
+        "synonyms": "",
+        "misspelling": ""
+    },
+    {
+        "title": "Tooth (chipped or broken)",
+        "link": "#",
+        "tag": "",
+        "synonyms": "",
+        "misspelling": ""
+    },
+    {
+        "title": "Tooth decay",
+        "link": "#",
+        "tag": "",
+        "synonyms": "",
+        "misspelling": ""
+    },
+    {
+        "title": "Tooth knocked out",
+        "link": "#",
+        "tag": "",
+        "synonyms": "",
+        "misspelling": ""
+    },
+    {
+        "title": "Toothache",
+        "link": "#",
+        "tag": "",
+        "synonyms": "",
+        "misspelling": ""
+    },
+    {
+        "title": "Total protein test",
+        "link": "#",
+        "tag": "",
+        "synonyms": "",
+        "misspelling": ""
+    },
+    {
+        "title": "Tourette's syndrome",
+        "link": "#",
+        "tag": "",
+        "synonyms": "",
+        "misspelling": ""
+    },
+    {
+        "title": "Toxic shock syndrome",
+        "link": "#",
+        "tag": "",
+        "synonyms": "",
+        "misspelling": ""
+    },
+    {
+        "title": "Toxocariasis",
+        "link": "#",
+        "tag": "",
+        "synonyms": "",
+        "misspelling": ""
+    },
+    {
+        "title": "Toxoplasmosis",
+        "link": "#",
+        "tag": "",
+        "synonyms": "",
+        "misspelling": ""
+    },
+    {
+        "title": "Tracheostomy",
+        "link": "#",
+        "tag": "",
+        "synonyms": "",
+        "misspelling": ""
+    },
+    {
+        "title": "Transient ischaemic attack (TIA)",
+        "link": "#",
+        "tag": "",
+        "synonyms": "",
+        "misspelling": ""
+    },
+    {
+        "title": "Travel vaccinations",
+        "link": "#",
+        "tag": "",
+        "synonyms": "",
+        "misspelling": ""
+    },
+    {
+        "title": "Tremor",
+        "link": "#",
+        "tag": "",
+        "synonyms": "",
+        "misspelling": ""
+    },
+    {
+        "title": "Tremor or shaking hands",
+        "link": "#",
+        "tag": "",
+        "synonyms": "",
+        "misspelling": ""
+    },
+    {
+        "title": "Trichomoniasis",
+        "link": "#",
+        "tag": "",
+        "synonyms": "",
+        "misspelling": ""
+    },
+    {
+        "title": "Trigeminal neuralgia",
+        "link": "#",
+        "tag": "",
+        "synonyms": "",
+        "misspelling": ""
+    },
+    {
+        "title": "Trigger finger",
+        "link": "#",
+        "tag": "",
+        "synonyms": "",
+        "misspelling": ""
+    },
+    {
+        "title": "Trimethylaminuria ('fish odour syndrome')",
+        "link": "#",
+        "tag": "",
+        "synonyms": "",
+        "misspelling": ""
+    },
+    {
+        "title": "Tuberculosis (TB)",
+        "link": "#",
+        "tag": "",
+        "synonyms": "",
+        "misspelling": ""
+    },
+    {
+        "title": "Tuberous sclerosis",
+        "link": "#",
+        "tag": "",
+        "synonyms": "",
+        "misspelling": ""
+    },
+    {
+        "title": "Tummy ache",
+        "link": "#",
+        "tag": "",
+        "synonyms": "",
+        "misspelling": ""
+    },
+    {
+        "title": "Tummy bug",
+        "link": "/diarrhoea",
+        "tag": "",
+        "synonyms": "",
+        "misspelling": ""
+    }
+]

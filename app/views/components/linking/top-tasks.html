@@ -1,0 +1,104 @@
+<!-- Use this page as the index for your project -->
+
+<!-- ADDING CUSTOM CSS - Add your custom CSS or Sass in /app/assets/sass/main.scss -->
+
+<!-- Extends the layout from /views/layout.html -->
+{% extends 'layout.html' %}
+<!-- 
+  In /views/layout.html you can:
+    - change the header and footer 
+    - add custom CSS and JavaScript
+-->
+
+<!-- Set the page title -->
+{% block pageTitle %}
+  NHS.UK Nav Team
+{% endblock %}
+
+<!-- For adding a breadcrumb -->
+<!-- Code examples can be found at https://service-manual.nhs.uk/design-system/components/breadcrumbs -->
+{% block beforeContent %}
+{% endblock %}
+
+<!-- For adding a back link -->
+<!-- Code examples can be found at https://service-manual.nhs.uk/design-system/components/back-link -->
+{% block outerContent %}
+{% endblock %}
+
+<!-- For adding page content -->
+<!-- Page layout code can be found at https://service-manual.nhs.uk/design-system/styles/layout -->
+{% block content %}
+  <div class="nhsuk-grid-row">
+    <div class="nhsuk-grid-column-two-thirds">
+
+      <!-- Change the page title here -->
+      <h1>Components</h1>
+      <p><strong>There are two main types of components that have been created to improve the information architecture on the NHS website.</strong></p>
+      <p>They are linking components and navigation components.</p>
+      <h2>Linking components</h2>
+      <ul class="nhsuk-hub-key-links beta-hub-key-links"> 
+        <li class="nhsuk-hub-key-links__list-item beta-hub-key-links__list-item">
+          <a href="/conditions/coronavirus-covid-19/symptoms/main-symptoms/">
+            Main topic hub
+          </a>
+        </li>
+
+        <li class="nhsuk-hub-key-links__list-item beta-hub-key-links__list-item">
+          <a href="/conditions/coronavirus-covid-19/symptoms/coronavirus-in-children/">
+            Sub-topic hub
+          </a>
+        </li>
+      
+        <li class="nhsuk-hub-key-links__list-item beta-hub-key-links__list-item">
+          <a href="/conditions/coronavirus-covid-19/symptoms/what-to-do-if-you-get-symptoms-again/">
+            Content page
+          </a>
+        </li>
+    </ul>
+    <h3>Guidance for linking components</h3>
+    <p>More detailed, written explanations for how and when to use the page templates can be seen on confluence.</p>
+    <p>Currently, there is guidance for:</p>
+    <ul>
+      <li><a href="https://nhsd-confluence.digital.nhs.uk/x/rB71Fg">card with arrow</a></li>
+      <li><a href="https://nhsd-confluence.digital.nhs.uk/x/th71Fg">key links</a></li>
+      <li><a href="https://nhsd-confluence.digital.nhs.uk/x/rh71Fg">top tasks</a></li>
+    </ul>
+    <p>There is no specific guidance for the overall structure of a content page, but there is guidance for the <a href="https://nhsd-confluence.digital.nhs.uk/x/uh71Fg">sideways navigation component</a> that should be used at the bottom of each content page that sits within a sub-topic hub.</p>
+    </h3>
+
+    <h2>Navigation components</h2>
+    <ul class="nhsuk-hub-key-links beta-hub-key-links"> 
+      <li class="nhsuk-hub-key-links__list-item beta-hub-key-links__list-item">
+        <a href="/conditions/coronavirus-covid-19/symptoms/main-symptoms/">
+          Main topic hub
+        </a>
+      </li>
+
+      <li class="nhsuk-hub-key-links__list-item beta-hub-key-links__list-item">
+        <a href="/conditions/coronavirus-covid-19/symptoms/coronavirus-in-children/">
+          Sub-topic hub
+        </a>
+      </li>
+    
+      <li class="nhsuk-hub-key-links__list-item beta-hub-key-links__list-item">
+        <a href="/conditions/coronavirus-covid-19/symptoms/what-to-do-if-you-get-symptoms-again/">
+          Content page
+        </a>
+      </li>
+    </ul>
+    <div class="nhsuk-u-padding-bottom-4"></div>
+
+
+    <h3>Guidance for navigation components</h3>
+    <p>More detailed, written explanations for how and when to use the page templates can be seen on confluence.</p>
+    <p>Currently, there is guidance for:</p>
+    <ul>
+      <li><a href="https://nhsd-confluence.digital.nhs.uk/x/mh71Fg">breadcrumbs</a></li>
+      <li><a href="https://nhsd-confluence.digital.nhs.uk/x/uh71Fg">sideways navigation</a></li>
+    </ul>
+    <p>There is no specific guidance for the overall structure of a content page, but there is guidance for the <a href="https://nhsd-confluence.digital.nhs.uk/x/uh71Fg">sideways navigation component</a> that should be used at the bottom of each content page that sits within a sub-topic hub.</p>
+    
+
+    </div>
+  </div>
+{% endblock %}

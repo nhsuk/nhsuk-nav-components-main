@@ -32,72 +32,50 @@
     <div class="nhsuk-grid-column-two-thirds">
 
       <!-- Change the page title here -->
-      <h1>Components</h1>
-      <p><strong>There are two main types of components that have been created to improve the information architecture on the NHS website.</strong></p>
-      <p>They are linking components and navigation components.</p>
-      <h2>Linking components</h2>
-      <ul class="nhsuk-hub-key-links beta-hub-key-links"> 
-        <li class="nhsuk-hub-key-links__list-item beta-hub-key-links__list-item">
-          <a href="/conditions/coronavirus-covid-19/symptoms/main-symptoms/">
-            Main topic hub
-          </a>
-        </li>
+      <h1>Card with arrow</h1>
+      <p><strong>The card with arrow component breaks down larger topics into smaller topics, and tells users how to get towards the specific content they need.</strong></p>
+      <p>image</p>
 
-        <li class="nhsuk-hub-key-links__list-item beta-hub-key-links__list-item">
-          <a href="/conditions/coronavirus-covid-19/symptoms/coronavirus-in-children/">
-            Sub-topic hub
-          </a>
-        </li>
+      <h2>Why do we need the card with arrow component?</h2>
+      <p>In creating a good structure on a huge website like NHS.UK, you end up with big topic areas such as 'Pregnancy', or 'Cancer', 'Diabetes'. Pages within these big topic areas are referred to as sub-topics, meaning they're a subset of the main topic area.</p> 
+      <p>We needed a way to visually indicate the breadth and depth of content within each sub-topic that was included under a main topic hub.</p>
+      <p>The proposed 'canonical link' component shares similar attributes to the promo link as it:</p>
+      <ul>
+        <li>is a card that acts as a link</li>
+        <li>having underlined, bold text (heading) and a summary sentence</li>
+      </ul>
+      <p>Due to main topic hubs containing other types of links, such as top tasks, we included the arrow in the promo box to give extra affordance to the individual sections of content .</p>
+
+      <h3>Code example</h3>
+
+      <h2>When to use the card with arrow</h2>
+      <p>The component should be used on Main topic hubs, as a way to visually show the hierarchy of the new hub structures. It should not be used on sub-topic hubs, or children of the main topic hub.</p>
+      <p>It should represent the key sub-topics within a main topic such as Type 1 and Type 2 diabetes within a main topic hub of Diabetes.</p>
+
+      <h2>How to use the card with arrow</h2>
+      <p>Each card should represent an individual sub-topic within a topic.</p>
+      <p>A heading should be assigned to each card that is blue, bold in style and underlined to show that the box is clickable.</p>
+      <p>A short summary of the content within that sub-topic should be included underneath the card's heading.</p>
+      <p>The arrow element should always sit to the right of the summary text, pointing towards the right. This is to show the direction of travel the user is taking through the content, from less specific down to more specific.</p>
+      <h3>Accessibility</h3>
+      <p>To prevent small target areas, the entire card should be clickable meaning the whole component must be a link.</p>
       
-        <li class="nhsuk-hub-key-links__list-item beta-hub-key-links__list-item">
-          <a href="/conditions/coronavirus-covid-19/symptoms/what-to-do-if-you-get-symptoms-again/">
-            Content page
-          </a>
-        </li>
-    </ul>
-    <h3>Guidance for linking components</h3>
-    <p>More detailed, written explanations for how and when to use the page templates can be seen on confluence.</p>
-    <p>Currently, there is guidance for:</p>
-    <ul>
-      <li><a href="https://nhsd-confluence.digital.nhs.uk/x/rB71Fg">card with arrow</a></li>
-      <li><a href="https://nhsd-confluence.digital.nhs.uk/x/th71Fg">key links</a></li>
-      <li><a href="https://nhsd-confluence.digital.nhs.uk/x/rh71Fg">top tasks</a></li>
-    </ul>
-    <p>There is no specific guidance for the overall structure of a content page, but there is guidance for the <a href="https://nhsd-confluence.digital.nhs.uk/x/uh71Fg">sideways navigation component</a> that should be used at the bottom of each content page that sits within a sub-topic hub.</p>
-    </h3>
+      <h2>Benefits of using the card with arrow</h2>
+      <h3>Research</h3>
+      <p>The NHS.UK Information Architecture team have seen that the card with arrow:</p>
+      <ul>
+        <li>enables users to scan hub pages to see what was available</li>
+        <li>is useful in reminding users what else is in a hub - some users were able to go back to hub pages and re-scan for things they were looking for</li>
+      </ul>
+      <p>The card with an arrow links have since gone live on the <a href="https://www.nhs.uk/conditions/coronavirus-covid-19/">Coronavirus hub </a> alongside top tasks and external links. From looking at analytics - we've found the visual hierarchy of links working well; users are flowing through the structure, from the main topic hub to the lowest content page.</p>
+      <p>We've also seen an even spread of clicks and visits to sub-topics, suggesting that the card with arrow style is not too prominent, and therefore not overshadowing top tasks or external links at the bottom of the page.</p>
 
-    <h2>Navigation components</h2>
-    <ul class="nhsuk-hub-key-links beta-hub-key-links"> 
-      <li class="nhsuk-hub-key-links__list-item beta-hub-key-links__list-item">
-        <a href="/conditions/coronavirus-covid-19/symptoms/main-symptoms/">
-          Main topic hub
-        </a>
-      </li>
-
-      <li class="nhsuk-hub-key-links__list-item beta-hub-key-links__list-item">
-        <a href="/conditions/coronavirus-covid-19/symptoms/coronavirus-in-children/">
-          Sub-topic hub
-        </a>
-      </li>
-    
-      <li class="nhsuk-hub-key-links__list-item beta-hub-key-links__list-item">
-        <a href="/conditions/coronavirus-covid-19/symptoms/what-to-do-if-you-get-symptoms-again/">
-          Content page
-        </a>
-      </li>
-    </ul>
-    <div class="nhsuk-u-padding-bottom-4"></div>
+      <h2>Have you used this component?</h2>
+      <p>If so, please share your research findings and let us know how it has worked for you. This will help us improve it for everyone.</p>
+      <p>Before you start, you will need a GitHub account. It's an open forum where we collect feedback.</p>
 
 
-    <h3>Guidance for navigation components</h3>
-    <p>More detailed, written explanations for how and when to use the page templates can be seen on confluence.</p>
-    <p>Currently, there is guidance for:</p>
-    <ul>
-      <li><a href="https://nhsd-confluence.digital.nhs.uk/x/mh71Fg">breadcrumbs</a></li>
-      <li><a href="https://nhsd-confluence.digital.nhs.uk/x/uh71Fg">sideways navigation</a></li>
-    </ul>
-    <p>There is no specific guidance for the overall structure of a content page, but there is guidance for the <a href="https://nhsd-confluence.digital.nhs.uk/x/uh71Fg">sideways navigation component</a> that should be used at the bottom of each content page that sits within a sub-topic hub.</p>
-    
+      
 
     </div>
   </div>

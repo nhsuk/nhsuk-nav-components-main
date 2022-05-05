@@ -7611,6 +7611,7 @@ b {
 }
 .beta-hub-sibling-nav .beta-hub-sibling-nav__list {
   padding-left: 12px;
+  list-style: none;
 }
 
 /**
